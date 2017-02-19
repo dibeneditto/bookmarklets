@@ -13,6 +13,6 @@ This is a collection of JavaScript Bookmarklets that I find useful for increasin
 
 
 ## _js-dt-dl
-``` JavaScript
+```JavaScript
 javascript:document.title+"<br>"+document.URL;
 ```
