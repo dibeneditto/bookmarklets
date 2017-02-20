@@ -3,10 +3,10 @@
  * 
  * @author Lukas W. DiBeneditto <lukas@dibeneditto.com>
  * @see {@link http://en.wikipedia.org/wiki/Bookmarklet Bookmarklet - Wikipedia}
- * @version 1
+ * @version 1.0.0
  */
-function main() {
+function _jsdtdl() {
   return document.title + "<br>" + document.URL;
 }
 
-main();
+_jsdtdl();
