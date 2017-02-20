@@ -2,10 +2,10 @@
 TITLE: Github.com dibeneditto bookmarklets README.md
 AUTHOR: Lukas W. DiBeneditto
 CREATED: 2017-02-17
-DESCRIPTION: 
-KEYWORDS: 
+DESCRIPTION: A collection of JavaScript Bookmarklets that I find useful.
+KEYWORDS: bookmarklets,javascript
 MODIFIED: 2017-02-17
-PUBLISHER: 
+PUBLISHER: Lukas W. DiBeneditto
 ```
 
 # JavaScript Bookmarklets
