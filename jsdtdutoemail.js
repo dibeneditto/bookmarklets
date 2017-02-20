@@ -9,7 +9,7 @@
  * links with registerProtocolHandler}
  * @see {@link http://tools.ietf.org/html/rfc6068 RFC 6068 - The 
  * 'mailto' URI Scheme}
- * @version 1.0.0
+ * @version 2.0.0
  */
 function jsdtdutoemail() {
   var d = document,
