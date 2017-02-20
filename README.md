@@ -11,8 +11,3 @@ PUBLISHER: Lukas W. DiBeneditto
 # JavaScript Bookmarklets
 This is a collection of JavaScript Bookmarklets that I find useful for increasing productivity.
 
-
-## _js-dt-dl
-```JavaScript
-javascript:document.title+"<br>"+document.URL;
-```
