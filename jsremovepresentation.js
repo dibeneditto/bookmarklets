@@ -17,7 +17,7 @@ function jsRemovePresentation() {
     el[i].style = '';
   } // end for
   /** replace any font elements, getElementsByTagName is
-     * case-insensitive in HTML */
+    * case-insensitive in HTML */
   var fo = document.getElementsByTagName('font');
   var p;
   for (i = 0; i < fo.length; i++) {
