@@ -4,7 +4,7 @@
  * 
  * @author Lukas W. DiBeneditto <lukas@dibeneditto.com>
  * @see {@link http://en.wikipedia.org/wiki/Bookmarklet}
- * @version 1.0.0
+ * @version 1.1.0
  */
 function jsDataTextHTML() {
   var uri = 'data:text/html, <body contenteditable>';
