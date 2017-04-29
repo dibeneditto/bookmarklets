@@ -43,7 +43,8 @@ function jsdtdutoemail() {
   var hierarchicalPart = email + subject + body;
   
   // NOTE that the scheme should not be encoded.
-  window.open(scheme + fixedEncodeURIComponent(hierarchicalPart));
+  // hierarchicalPart is already encoded correctly.
+  window.open(scheme + hierarchicalPart);
 }
 
 /**
