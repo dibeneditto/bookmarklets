@@ -1,4 +1,5 @@
 /**
+ * sharePageToEmail.js
  * This JavaScript Bookmarklet attempts to auto fill in a new Email
  * Message, the email Subject is the Title of the Current Web Page, and 
  * the email Body is the URL of the Current Web Page. Change the value
@@ -23,7 +24,7 @@
  * @see {@link http://tools.ietf.org/html/rfc6068}
  * @version 2.1.0
  */
-function jsdtdutoemail() {
+function sharePagetoEmail() {
   // The email protocol scheme.
   var scheme = 'mailto:';
   
@@ -64,4 +65,4 @@ function fixedEncodeURIComponent(str) {
   });
 }
 
-jsdtdutoemail();
+sharePageToEmail();
