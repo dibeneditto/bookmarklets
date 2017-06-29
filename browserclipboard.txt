@@ -1,0 +1,1 @@
+data:text/html,<style>textarea{width:100%;height:50%}textarea:focus{background-color:silver}</style><textarea></textarea><br><textarea></textarea>
